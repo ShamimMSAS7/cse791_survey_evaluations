@@ -1,0 +1,2 @@
+Variable,Test,N,W,p_value,Alpha,Normality
+Overall_NASA_TLX,Shapiro-Wilk,115,0.975445168118536,0.03275500713666099,0.05,Non-normal

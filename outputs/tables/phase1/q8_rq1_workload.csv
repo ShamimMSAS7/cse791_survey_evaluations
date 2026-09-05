@@ -1,0 +1,8 @@
+Variable,Spearman rho,p-value,Effect Magnitude,Status (alpha=.05)
+Mental Demand,0.311,0.0006,Moderate / Medium,Defended
+Physical Demand,0.19,0.0393,Small / Weak,Defended
+Temporal Demand,0.182,0.0483,Small / Weak,Defended
+Performance,0.126,0.175,Small / Weak,Not Defended
+Effort,0.283,0.0019,Small / Weak,Defended
+Frustration,0.217,0.018,Small / Weak,Defended
+Overall NASA-TLX,0.255,0.0053,Small / Weak,Defended
