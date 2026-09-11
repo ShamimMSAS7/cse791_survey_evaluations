@@ -8,11 +8,11 @@ This repository contains the analysis notebooks and outputs for the survey-based
 main/
 ├── data/
 │   ├── raw/
-│   │   ├── survey1.csv
-│   │   └── survey2.csv
+│   │   ├── survey1.csv (accessible via request)
+│   │   └── survey2.csv (accessible via request)
 │   └── cleaned/
-│       ├── survey1_cleaned.csv
-│       └── survey2_cleaned.csv
+│       ├── survey1_cleaned.csv (accessible via request)
+│       └── survey2_cleaned.csv (accessible via request)
 │
 ├── notebooks/
 │   ├── phase1_evaluations.ipynb
